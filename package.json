@@ -1,0 +1,31 @@
+{
+  "name": "sreyorn-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/google-fonts": "^1.3.0",
+    "@tailwindcss/ui": "^0.7.2",
+    "core-js": "^3.19.3",
+    "nuxt": "^2.15.8",
+    "postcss-hexrgba": "^2.0.1",
+    "postcss-responsive-type": "^1.0.0",
+    "vue": "^2.6.14",
+    "vue-server-renderer": "^2.6.14",
+    "vue-template-compiler": "^2.6.14",
+    "webpack": "^4.46.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/color-mode": "^2.1.1",
+    "@nuxtjs/tailwindcss": "^4.2.1",
+    "@tailwindcss/typography": "^0.2.0",
+    "postcss": "^8.4.5",
+    "postcss-color-gray": "^5.0.0",
+    "tailwindcss-dark-mode": "^1.1.7"
+  }
+}
