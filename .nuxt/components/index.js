@@ -1,9 +1,9 @@
-export { default as AboutBox } from '../../components/AboutBox.vue'
-export { default as ActivityBox } from '../../components/ActivityBox.vue'
-export { default as Menu } from '../../components/Menu.vue'
-export { default as RatingFilled } from '../../components/RatingFilled.vue'
-export { default as RatingUnfilled } from '../../components/RatingUnfilled.vue'
-export { default as WorkCard } from '../../components/WorkCard.vue'
+export const AboutBox = () => import('../../components/AboutBox.vue' /* webpackChunkName: "components/about-box" */).then(c => wrapFunctional(c.default || c))
+export const ActivityBox = () => import('../../components/ActivityBox.vue' /* webpackChunkName: "components/activity-box" */).then(c => wrapFunctional(c.default || c))
+export const Menu = () => import('../../components/Menu.vue' /* webpackChunkName: "components/menu" */).then(c => wrapFunctional(c.default || c))
+export const RatingFilled = () => import('../../components/RatingFilled.vue' /* webpackChunkName: "components/rating-filled" */).then(c => wrapFunctional(c.default || c))
+export const RatingUnfilled = () => import('../../components/RatingUnfilled.vue' /* webpackChunkName: "components/rating-unfilled" */).then(c => wrapFunctional(c.default || c))
+export const WorkCard = () => import('../../components/WorkCard.vue' /* webpackChunkName: "components/work-card" */).then(c => wrapFunctional(c.default || c))
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {
