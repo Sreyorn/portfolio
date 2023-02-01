@@ -1,0 +1,20 @@
+{
+  "AboutBox": {
+    "description": "Auto imported from components/AboutBox.vue"
+  },
+  "ActivityBox": {
+    "description": "Auto imported from components/ActivityBox.vue"
+  },
+  "Menu": {
+    "description": "Auto imported from components/Menu.vue"
+  },
+  "RatingFilled": {
+    "description": "Auto imported from components/RatingFilled.vue"
+  },
+  "RatingUnfilled": {
+    "description": "Auto imported from components/RatingUnfilled.vue"
+  },
+  "WorkCard": {
+    "description": "Auto imported from components/WorkCard.vue"
+  }
+}

@@ -13,9 +13,13 @@
         "
       >
         <!-- TODO: change to using component -->
+        <WorkCard workplace="Computer Vision and Learning Lab" :description="work6" />
         <WorkCard workplace="Dobpi" :description="work1" />
         <WorkCard workplace="Kontent" :description="work2" />
         <WorkCard workplace="Space Project" :description="work3" />
+        <WorkCard workplace="TypeLyrcis.xyz" :description="work4" />
+        <WorkCard workplace="Dalgo.xyz" :description="work5" />
+
       </div>
     </div>
   </div>
@@ -49,6 +53,28 @@ export default {
         url: "https://space-orncif.netlify.app/",
 
       },
+      work4: {
+        img: "typelyrics.png",
+        about: "Personal Project",
+        position: "Frontend: Development and UI Design",
+        techUse: "Used: React.js, Chakra-UI",
+        url: "https://typelyrics.xyz/",
+      },
+      work5: {
+        img: "dalgo.png",
+        about: "Personal Project",
+        position: "Frontend: Development and UI Design",
+        techUse: "Used: Nuxt.js, Chakra-UI",
+        url: "https://dalgo.xyz/",
+      },
+      work6: {
+        img: "cvl.png",
+        about: "Computer Vision Lab",
+        position: "Intern student working on training machine learning models",
+        techUse: "Topics: Object Detection, Knowledge Distillation",
+        url: "https://cvl.inha.ac.kr/index.html",
+      },
+
     };
   },
 };

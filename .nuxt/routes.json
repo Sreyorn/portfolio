@@ -1,0 +1,26 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/sreyorn/Desktop/my-projects-2/my-portfolio-main/pages/about.vue",
+    "chunkName": "pages/about"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "/Users/sreyorn/Desktop/my-projects-2/my-portfolio-main/pages/contact.vue",
+    "chunkName": "pages/contact"
+  },
+  {
+    "name": "work",
+    "path": "/work",
+    "component": "/Users/sreyorn/Desktop/my-projects-2/my-portfolio-main/pages/work.vue",
+    "chunkName": "pages/work"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/sreyorn/Desktop/my-projects-2/my-portfolio-main/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
