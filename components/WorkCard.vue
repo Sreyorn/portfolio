@@ -27,6 +27,7 @@
     </div>
     <div>- {{ description.position }}</div>
     <div>- {{ description.techUse }}</div>
+    <div class="md:font-bold"> {{ description.other }}</div>
   </div>
 </template>
 <script>

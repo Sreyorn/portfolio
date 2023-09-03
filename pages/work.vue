@@ -51,6 +51,7 @@ export default {
         position: "Frontend & Backend",
         techUse: "Used: Nuxtjs, Vuetify | Express, PostgreSQL, AWS-S3",
         url: "https://space-orncif.netlify.app/",
+        other:"** NOTE: data fetching is NOT available now due to problem with backend server"
 
       },
       work4: {
@@ -59,6 +60,7 @@ export default {
         position: "Frontend: Development and UI Design",
         techUse: "Used: React.js, Chakra-UI",
         url: "https://typelyrics.xyz/",
+        other:"** NOTE: Click on the logo to type your favorite song's lyrics"
       },
       work5: {
         img: "dalgo.png",
@@ -66,6 +68,7 @@ export default {
         position: "Frontend: Development and UI Design",
         techUse: "Used: Nuxt.js, Chakra-UI",
         url: "https://dalgo.xyz/",
+        other:"** NOTE: Can't access now due to the expiration of domain name (will update later)"
       },
       work6: {
         img: "cvl.png",

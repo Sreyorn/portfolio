@@ -8,6 +8,8 @@
         <AboutBox title="Languages" :content="content2" :ratingBar=true />
         <AboutBox title="Awards" :content="content3" />
         <AboutBox title="Experiences" :content="content4" />
+        <!-- <AboutBox title="Hello, World" :content="content5" /> -->
+
         <div class="col-span-2 box">
           <div class="text-2xl hover:text-gray-400">
             <strong>Activities</strong>
@@ -58,6 +60,7 @@ export default {
         "Linux",
         "OS",
         "Python",
+       
       ],
       others: [
         "Django",
@@ -68,16 +71,20 @@ export default {
         "OpenGL",
       ],
       content1: [
-        "• Inha University - Computer Engineering",
+        "• Korea Advanced Institute of Science and Technology (KAIST) - MS in Science and Technology Policy",
+        "• Inha University - BS in Computer Engineering",
         "• Royal University of Phnom Penh - Computer Science",
         "• Cambodia Hope School - High School",
       ],
       content2: ["Khmer  ", "English  ", "Korean  ", "Chinese  "],
       content3: [
+        "• Hyundai Chung Mong-Koo Global Scholarship - Master's Degree",
+        "• KAIST Scholarship (2023 Fall) - Master's Degree",
         "• Ilwoo Foundation Scholarship (Korean Air) - Bachelor's Degree",
         "• Thai Royal Scholarship - Bachelor's Degree (Dropped)",
         "• 1st Champion Junior Public Speaking Final Round",
         "• Middle School and High School Outstanding Student",
+        
       ],
       content4: [
         "• Computer Vision and Learning Lab - Intern, Object detection and Knowledge Distillation",
