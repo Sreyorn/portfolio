@@ -9,9 +9,11 @@
     <div class="underline">
       <strong>{{ title }}</strong>
     </div>
-    <div v-for="(item, i) in actContent" :key="i">
-      <div>{{ item }}</div>
+      <div v-for="(item, i) in actContent" :key="i">
+          {{ item }}
+
     </div>
+    
   </div>
 </template>
 
@@ -34,4 +36,5 @@ export default {
         duration-300
         transform;
 }
+
 </style>

@@ -8,8 +8,8 @@
         <AboutBox title="Languages" :content="content2" :ratingBar=true />
         <AboutBox title="Awards" :content="content3" />
         <AboutBox title="Experiences" :content="content4" />
+        
         <!-- <AboutBox title="Hello, World" :content="content5" /> -->
-
         <div class="col-span-2 box">
           <div class="text-2xl hover:text-gray-400">
             <strong>Activities</strong>
@@ -71,10 +71,10 @@ export default {
         "OpenGL",
       ],
       content1: [
-        "• Korea Advanced Institute of Science and Technology (KAIST) - MS in Science and Technology Policy",
-        "• Inha University - BS in Computer Engineering",
-        "• Royal University of Phnom Penh - Computer Science",
-        "• Cambodia Hope School - High School",
+        "• MS in Science and Technology Policy - Korea Advanced Institute of Science and Technology (KAIST)",
+        "• BS in Computer Engineering (2023) - Inha University  ",
+        "• Majored in Computer Science - Royal University of Phnom Penh (2016 - 2018) ",
+        "•  High School (2016) - Cambodia Hope School",
       ],
       content2: ["Khmer  ", "English  ", "Korean  ", "Chinese  "],
       content3: [

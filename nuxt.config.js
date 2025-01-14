@@ -1,9 +1,9 @@
 export default {
-  target: 'static',
+  target: "static",
   ssr: false,
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: "sreyorn-portfolio",
+    title: "iamorn",
     htmlAttrs: {
       lang: "en",
     },
@@ -52,6 +52,7 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
+    webpack5: true,
     postcss: {
       // Add plugin names as key and arguments as value
       // Install them before as dependencies with npm or yarn

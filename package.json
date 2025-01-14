@@ -1,5 +1,5 @@
 {
-  "name": "sreyorn-portfolio",
+  "name": "iamorn-portfolio",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -24,6 +24,7 @@
     "@nuxtjs/color-mode": "^2.1.1",
     "@nuxtjs/tailwindcss": "^4.2.1",
     "@tailwindcss/typography": "^0.2.0",
+    "node": "^16.0.0",
     "postcss": "^8.4.5",
     "postcss-color-gray": "^5.0.0",
     "tailwindcss-dark-mode": "^1.1.7"

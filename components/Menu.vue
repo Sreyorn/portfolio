@@ -9,7 +9,7 @@
             <div class="flex-shrink-0">
               <NuxtLink to="/">
                 <p class="text-5xl px-2 text-white hover:underline">
-                   SREYORN
+                   iamorn
                 </p>
               </NuxtLink>
             </div>
@@ -81,7 +81,7 @@
       <!-- open mobile menu -->
       <div :class="[isOpen ? '' : 'hidden', 'md:hidden']">
         <div class="mt-5 px-2 pt-2 pb-3 sm:px-3 text-center">
-          <div v-for="(menu, i) in menuItems" :key="i">
+          <div @click="toggle" v-for="(menu, i) in menuItems" :key="i">
             <NuxtLink :to="menu.path">
               <a
                 class="

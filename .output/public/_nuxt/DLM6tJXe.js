@@ -1,0 +1,1 @@
+import{_ as o}from"./Sv9tOo-7.js";import{_ as a,s as n,o as s,u as c,w as _,a as r,b as l}from"./ddnCsWYY.js";const m={},d={class:"dark:bg-gray-800 dark:text-gray-200"};function p(u,x){const t=n("nuxt"),e=o;return s(),c(e,null,{default:_(()=>[r("div",d,[l(t,{class:"mx-auto p-4 bg-black text-gray-200"})])]),_:1})}const g=a(m,[["render",p]]);export{g as default};

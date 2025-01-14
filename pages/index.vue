@@ -6,12 +6,12 @@
         <span class="text-6xl mb-2 text-center"><b>SREYORN LEN </b></span>
         <div class="justify-center text-center">
           <span class="text-2xl text-gray-500">
-            Computer Engineering Graduated Student  
+            BS in Computer Engineering  
           </span>
           
         </div>
         <span class="text-2xl text-center text-gray-500"
-          >Currently Pursuing Master's Degree in Science and Technology Policy</span
+          >MS in Science and Technology Policy</span
         >
         <!-- menu -->
         <div class="flex mt-5">

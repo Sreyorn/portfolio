@@ -3,7 +3,7 @@
     <div class=" h-screen flex flex-col justify-center items-center">
       
       <div class="mb-5 flex justify-center">
-        <a href="mailto:lensreyorn@gmail.com">
+        <a href="mailto:leniamorn@gmail.com">
           <svg
             class="animation svg hover:scale-125"
             stroke-width="2"
@@ -17,13 +17,13 @@
             <polyline points="3 7 12 13 21 7" />
           </svg>
         </a>
-        <span class="text-lg hover:underline"> lensreyorn@gmail.com </span>
+        <span class="text-lg hover:underline"> leniamorn@gmail.com </span>
       </div>
 
       <section class="flex justify-center gap-10">
         <a
           class="animation hover:scale-125"
-          href="https://github.com/Sreyorn"
+          href="https://github.com/iamorn"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -43,7 +43,7 @@
         </a>
         <a
           class="animation hover:scale-125"
-          href="https://www.facebook.com/sreyorn7"
+          href="https://www.facebook.com/iamorn7"
           target="_blank"
           rel="noopener noreferrer"
         >

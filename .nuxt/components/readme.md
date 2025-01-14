@@ -8,6 +8,7 @@ You can directly use them in pages and other components without the need to impo
 
 - `<AboutBox>` | `<about-box>` (components/AboutBox.vue)
 - `<ActivityBox>` | `<activity-box>` (components/ActivityBox.vue)
+- `<Box>` | `<box>` (components/Box.vue)
 - `<Menu>` | `<menu>` (components/Menu.vue)
 - `<RatingFilled>` | `<rating-filled>` (components/RatingFilled.vue)
 - `<RatingUnfilled>` | `<rating-unfilled>` (components/RatingUnfilled.vue)

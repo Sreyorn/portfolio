@@ -1,5 +1,6 @@
 export { default as AboutBox } from '../../components/AboutBox.vue'
 export { default as ActivityBox } from '../../components/ActivityBox.vue'
+export { default as Box } from '../../components/Box.vue'
 export { default as Menu } from '../../components/Menu.vue'
 export { default as RatingFilled } from '../../components/RatingFilled.vue'
 export { default as RatingUnfilled } from '../../components/RatingUnfilled.vue'

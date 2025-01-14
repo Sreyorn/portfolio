@@ -5,6 +5,9 @@
   "ActivityBox": {
     "description": "Auto imported from components/ActivityBox.vue"
   },
+  "Box": {
+    "description": "Auto imported from components/Box.vue"
+  },
   "Menu": {
     "description": "Auto imported from components/Menu.vue"
   },
