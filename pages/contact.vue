@@ -17,7 +17,7 @@
             <polyline points="3 7 12 13 21 7" />
           </svg>
         </a>
-        <span class="text-lg hover:underline"> leniamorn@gmail.com </span>
+        <span class="text-lg hover:underline"> lensreyorn@gmail.com </span>
       </div>
 
       <section class="flex justify-center gap-10">
