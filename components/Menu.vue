@@ -9,7 +9,7 @@
             <div class="flex-shrink-0">
               <NuxtLink to="/">
                 <p class="text-5xl px-2 text-white hover:underline">
-                   iamorn
+                   I-AM-ORN
                 </p>
               </NuxtLink>
             </div>
