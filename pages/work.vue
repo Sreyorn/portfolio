@@ -51,7 +51,7 @@ export default {
         position: "Frontend & Backend",
         techUse: "Used: Nuxtjs, Vuetify | Express, PostgreSQL, AWS-S3",
         url: "https://space-orncif.netlify.app/",
-        other:"🔴 Can't Access Now: data fetching is NOT available now due to a problem with backend server"
+        other:"🟡 Can Access BUT data fetching is NOT available now due to a problem with backend server"
 
       },
       work4: {
